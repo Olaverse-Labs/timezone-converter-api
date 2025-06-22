@@ -1,0 +1,7 @@
+name: timezone-converter-api
+description: Enhanced Time Zone Converter API with FastAPI
+type: docker
+port: 8000
+healthcheck: http://localhost:8000/
+environment:
+  - PORT=8000 
