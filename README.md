@@ -1,5 +1,7 @@
 # Enhanced Time Zone Converter API
 
+[![Olaverse API](https://img.shields.io/badge/Olaverse-API%20Doc-blue?style=flat-square)](https://www.olaverse.co.uk/timezone-api) [![Try on Vibeland](https://img.shields.io/badge/Vibeland-Try%20Live-orange?style=flat-square)](https://www.vibeland.co.uk/tools/timezone)
+
 A comprehensive FastAPI-based REST API for converting times between different time zones with advanced features and robust functionality.
 
 ## 🚀 Features
